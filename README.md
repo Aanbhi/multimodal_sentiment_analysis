@@ -43,8 +43,11 @@ Use Cases-
 Installation & Setup-
 
 git clone https://github.com/your-repo/multimodal-sentiment-intelligence.git
+
 cd multimodal-sentiment-intelligence
+
 pip install -r requirements.txt
+
 python app.py
 
 
