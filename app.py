@@ -52,4 +52,4 @@ elif input_type == "Image":
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by Anbhi Thakur | [GitHub Repository](https://github.com/Aanbhi/multimodal_sentiment_analysis)")
+
